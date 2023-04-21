@@ -1,0 +1,98 @@
+#game{
+  border: 2px solid black;
+  position: absolute;
+display: inline-block;
+  background-color: rgba(100, 155, 218, 0.71);
+  width: 80%;
+text-align: center;
+}
+#bukva{
+    border: 2px solid black;
+    position: relative;
+    box-sizing: border-box;
+    background-color: #485770;
+    display: inline-block;
+    top: 0px;
+
+    margin-top: 20px;
+}
+
+#baraban{
+  border: 2px solid black;
+  display: inline-block;
+  position: relative;
+    background-image: url("https://avatars.mds.yandex.net/i?id=960cfb4c0df666f4e047d3021f7811b3b2967f4f-7755608-images-thumbs&n=13");
+border-radius: 3000px;
+width: 320px;
+height: 320px;
+    margin-bottom: 0px;
+    display: inline-block;
+
+
+}
+#baraban1{
+  background-color: yellow;
+  position: relative;
+  width: 310px;
+
+
+}
+#baraban2{
+  display: inline-block;
+      border: 2px solid black;
+
+    margin-top: 10px;
+
+
+}
+
+
+#yakub{
+ border: 2px solid black;
+ position: relative;
+background-image: url(yakub.jpg);
+width: 400px;
+height: 400px;
+    margin-top: 10px;
+
+
+}
+#priz{
+ border: 2px solid black;
+ position: relative;
+ margin-top: 10px;
+
+}
+#glpriz{
+ border: 2px solid black;
+ position: relative;
+    align-content: center;
+    text-align: center;
+}
+#glpriz{
+  display: none;
+  background-color: #5f9dd9;
+}
+.priz4{
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    box-sizing: border-box;
+    position: relative;
+}
+.priz5{
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    position: relative;
+    padding-bottom: 100px;
+}
+.priz6{
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    position: relative;
+}
